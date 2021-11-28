@@ -45,7 +45,7 @@ a {
 
 /* Header Settings */
 header {
-    background-image: url(./img/hero.jpg);
+    background-image: url(../img/hero.jpg);
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
@@ -325,7 +325,7 @@ article .cities ul li .city .eaters {
 
 /* Review Settings */
 article .review {
-    background-image: url(./img/back-customers.jpg);
+    background-image: url(../img/back-customers.jpg);
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
